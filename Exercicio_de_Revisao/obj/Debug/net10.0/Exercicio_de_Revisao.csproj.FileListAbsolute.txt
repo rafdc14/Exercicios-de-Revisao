@@ -1,0 +1,15 @@
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\bin\Debug\net10.0\Exercicio_de_Revisao.exe
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\bin\Debug\net10.0\Exercicio_de_Revisao.deps.json
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\bin\Debug\net10.0\Exercicio_de_Revisao.runtimeconfig.json
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\bin\Debug\net10.0\Exercicio_de_Revisao.dll
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\bin\Debug\net10.0\Exercicio_de_Revisao.pdb
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\Exercicio_de_Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\Exercicio_de_Revisao.AssemblyInfoInputs.cache
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\Exercicio_de_Revisao.AssemblyInfo.cs
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\Exercicio_de_Revisao.csproj.CoreCompileInputs.cache
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\Exercicio_de_Revisao.sourcelink.json
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\Exercicio_de_Revisao.dll
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\refint\Exercicio_de_Revisao.dll
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\Exercicio_de_Revisao.pdb
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\Exercicio_de_Revisao.genruntimeconfig.cache
+C:\Dev\UC00245\Exercícios de Revisão\Exercicios-de-Revisao\Exercicio_de_Revisao\obj\Debug\net10.0\ref\Exercicio_de_Revisao.dll
