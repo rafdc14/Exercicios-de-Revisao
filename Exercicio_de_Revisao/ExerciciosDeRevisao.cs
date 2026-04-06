@@ -21,7 +21,7 @@ public class AlunoExercicioRevisao
  
     int numero = -5;
     //escolher o número com variável "int"
-    Console.WriteLine($"O número escolhido é -5");
+    Console.WriteLine($"O número escolhido é {numero}");
     //"if" se o número for maior que "0", "else if" se for menor que "0" e "else" se for igual a "0"
     if (numero > 0)
         {
@@ -132,7 +132,7 @@ public class AlunoExercicioRevisao
     else
         {// adolescente se nenhuma das anteriores
             Console.WriteLine($"Adolescente");
-        }
+        }// ***DUVIDA: como fazer "else if" para a variável "idade" estar entre 12 e 18????***
     Console.WriteLine("--------------------\n");
 
     //SAIDA
